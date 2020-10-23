@@ -9,3 +9,9 @@ Get an initial impression of neural network.
 ## TensorFlow_explore
 
 Learn the use of tensorflow
+
+## Neural Network master
+
+Back propagation
+How to use Keras in tensorflow
+The methods of avoiding overfitting
