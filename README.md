@@ -1,4 +1,4 @@
-# Deep Learning note.
+# Deep Learning note
 
 Based on python 3.6 and tensorflow 2.3
 
